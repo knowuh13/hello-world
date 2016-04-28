@@ -1,3 +1,2 @@
-# hello-world
-Tutorial
+# Hello World Tutorial
 Writing this text because that's what it says.
